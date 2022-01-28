@@ -11,7 +11,10 @@ TODO: Write more description
 
 TODO: Write installation instructions here
 
-## Usage
+## Usage![1f403](https://user-images.githubusercontent.com/30638175/151477976-e42809fd-a4a1-4eae-9b72-26175e007b50.png)![1f403](https://user-images.githubusercontent.com/30638175/151477980-34e4babc-f7b8-4879-824a-a1d71eb93fd9.png)![1f403](https://user-images.githubusercontent.com/30638175/151477982-314dfd85-8723-44fb-a99d-504889ad009c.png)
+
+
+
 
 ### How to run the server
 TODO
@@ -67,3 +70,6 @@ $ crystal spec --error-trace
 
 - [YANA](https://github.com/where-is-x) - co-creator and maintainer
 - [Ryan Prior](https://github.com/ryanprior) - co-creator and maintainer
+
+| 🐃 no yaks were harmed in the making of this repo | 
+|------------------------------------------------|
