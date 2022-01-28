@@ -74,3 +74,6 @@ $ crystal spec --error-trace
 
 > 🐃 "No yaks were harmed in the making of this repo."
 -Aneurysm9
+
+> 🐃 🐃 🐃 🐃 🐃 🐃 🐃 🐃 "Came here from where_is_x stream. Repo needed more yaks."
+-Verinaut"
