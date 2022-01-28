@@ -67,3 +67,6 @@ $ crystal spec --error-trace
 
 - [YANA](https://github.com/where-is-x) - co-creator and maintainer
 - [Ryan Prior](https://github.com/ryanprior) - co-creator and maintainer
+
+> "No yaks were harmed in the making of this repo."
+-Aneurysm9
