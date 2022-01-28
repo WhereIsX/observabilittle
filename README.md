@@ -39,6 +39,10 @@ In order to develop observabilittle, knowledge about one or two of these areas i
 - Install Crystal 1.3: https://crystal-lang.org/install/
 - Run `shards install` to install dependencies
 
+### MVP Design Diagram
+This is a work in progress!  [Our MVP Diagram](docs/observabilittle_mvp.svg)
+
+
 ### How To Build
 
 ```
